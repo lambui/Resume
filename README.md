@@ -1,2 +1,2 @@
-# [Resume pdf](https://drive.google.com/open?id=0B15xveLT99SBTldJWlhVNTUxODA)
-![resumeImage](https://github.com/lambui/Resume/blob/master/resumeImage.png)
+# [Resume pdf](https://github.com/lambui/Resume/blob/master/resume.png)
+![resumeImage](https://github.com/lambui/Resume/blob/master/resume.png)
